@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vickey-18
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning cyber security
 -  👀 I’m interested in Ethical hacking
 - 💞️ I’m looking to collaborate on de bhi do yaar 
 - 📫 How to reach me vickey7573@gmail.com
