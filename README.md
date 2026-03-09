@@ -1,11 +1,77 @@
-- 👋 Hi, I’m @Vickey-18
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning cyber security
--  👀 I’m interested in Ethical hacking
-- 💞️ I’m looking to collaborate on de bhi do yaar 
-- 📫 How to reach me vickey7573@gmail.com
+---
 
-<!---
-Vickey-18/Vickey-18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+* 💻 Full Stack Developer working with **PHP, MySQL, JavaScript**
+* 🌱 Currently learning **IoT (Internet of Things) and Hardware Systems**
+* ⚡ Interested in **Smart Devices, Automation and Embedded Systems**
+* 🛠 Building **dynamic web platforms and real-world applications**
+
+---
+
+## 🧠 Skills
+
+### Web Development
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* PHP
+* MySQL
+
+### Backend Systems
+
+* REST APIs
+* Admin Panel Development
+* Payment Gateway Integration (Razorpay)
+* Authentication Systems
+* Database Design
+
+### IoT & Hardware
+
+* Microcontrollers
+* Sensors Integration
+* Automation Projects
+* IoT Prototyping
+
+---
+
+## 📌 Projects
+
+### 🎓 Student Management System
+
+* Complete admin panel
+* Online fee payment integration
+* Razorpay payment gateway
+* Attendance, notices, homework management
+
+### 🎰 Dynamic Lottery Website
+
+* Fully dynamic frontend
+* Admin panel controlled system
+* Manual & auto number generation
+* PDF export feature
+
+### 🧠 Online Test Platform
+
+* Secure login/signup system
+* Batch and test management
+* Animated exam interface
+* Telegram activation system
+
+### 🌐 Blog CMS
+
+* Dynamic blog system
+* Admin panel
+* Database-driven content management
+
+---
+
+## 📫 Contact
+
+📧 Email: **[vickey7573@gmail.com](mailto:vickey7573@gmail.com)**
+
+---
+
+⭐ Always experimenting with technology, building projects, and learning new systems.
